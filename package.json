@@ -4,7 +4,7 @@
     "node": ">=14.17.0"
   },
   "type": "module",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Collection classes and functions.",
   "main": "src/collections.js",
   "module": "src/collections.js",
@@ -26,7 +26,7 @@
     "@jest/globals": "^29.4.3"
   },
   "dependencies": {
-    "@ceilingcat/assertions": "^1.0.2"
+    "@ceilingcat/assertions": "^1.0.3"
   },
   "repository": {
     "type": "git",
