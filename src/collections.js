@@ -1,4 +1,4 @@
-import Assertions from "assertions";
+import Assertions from "@ceilingcat/assertions";
 import Pair from "./pair";
 
 /**
