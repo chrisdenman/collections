@@ -1,5 +1,5 @@
 import Assertions from "@ceilingcat/assertions";
-import Pair from "./pair";
+import Pair from "./pair.js";
 
 /**
  * Returns <code>true</code> if 'set' contains all the values provided by the <code>Iterable</code> 'values'.

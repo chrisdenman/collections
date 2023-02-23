@@ -1,4 +1,4 @@
-# Collections 1.0.0
+# Collections 1.0.2
 
 JavaScript collection classes and functions.
 
