@@ -1,5 +1,5 @@
 import {describe, expect, it} from '@jest/globals';
-import Pair from "../src/pair";
+import Pair from "../src/pair.js";
 
 describe(
     "Pair Tests",

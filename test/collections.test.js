@@ -5,7 +5,7 @@ import {
     IMMUTABLE_EMPTY_SET as IES,
     makeImmutableMap,
     makeImmutableSet
-} from "../src/collections";
+} from "../src/collections.js";
 
 describe(
     "Immutable Empty Set Tests",
